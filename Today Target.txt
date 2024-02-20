@@ -1,0 +1,13 @@
+worldcoin.org
+*.worldcoin.dev
+https://github.com/worldcoin/world-id-contracts
+*.consumer.worldcoin.org
+*.toolsforhumanity.com
+*.worldcoin.org
+toolsforhumanity.com
+getworldcoin.com
+bioid-management.app
+*.worldcoin-distributors.com
+
+
+Tools for Humanity
